@@ -334,7 +334,7 @@ Light:
   serializedVersion: 10
   m_Type: 0
   m_Shape: 0
-  m_Color: {r: 0.9433962, g: 0.1192595, b: 0.12707861, a: 1}
+  m_Color: {r: 0.9622642, g: 0.9568174, b: 0.95686907, a: 1}
   m_Intensity: 0.6
   m_Range: 60
   m_SpotAngle: 110
@@ -2391,7 +2391,7 @@ Camera:
   near clip plane: 0.3
   far clip plane: 1000
   field of view: 60
-  orthographic: 0
+  orthographic: 1
   orthographic size: 5
   m_Depth: -1
   m_CullingMask:
